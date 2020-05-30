@@ -5,8 +5,8 @@ Authors:
 
 [André Ferreira](https://github.com/ShadowTwin41/)
 
-[Eduarda Vieira](https://github.com/eduardavieira)
-
 [Cláudia Abreu](https://github.com/claudiarmabreu)
+
+[Eduarda Vieira](https://github.com/eduardavieira)
 
 [Miguel Pinto](https://github.com/miguelpinto-98/)
